@@ -15,10 +15,34 @@
 .card  {
   box-sizing: border-box;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
-  color: blue;
+  color: black;
 }
 
 body{
 	background-image:url("https://media.istockphoto.com/vectors/abstract-red-and-grey-corporate-background-vector-id804256126?k=6&m=804256126&s=612x612&w=0&h=XWb5IJhRWMIszK0XJetlq63H20fVVDbS6bWpvJccHtI=");
 	background-size: 100%;
+  	color: #69707a;
+  	font-family: 'Rubik', sans-serif;
+}
+
+.card-space {
+	margin-bottom:10px;
+}
+
+.topnav {
+	background-color: #D8BDBD;
+	overflow: hidden;
+	font-family: 'Nunito', sans-serif;
+	color: red;
+}
+
+.card-title {
+  color: #CE2222;
+  font-weight: 300;
+}
+
+
+.description {
+  background-image: url("https://www.cutpricewallpaper.co.uk/wp-content/uploads/2017/09/89303_image.jpg");
+  background-repeat: repeat-x;
 }
