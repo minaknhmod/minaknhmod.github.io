@@ -1,0 +1,24 @@
+.resize {
+  width:400px;
+  height:400px
+  
+
+}
+
+.rond {
+	border-radius: 50%;
+	width:150px;
+    height:150px;
+}
+
+
+.card  {
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+  color: blue;
+}
+
+body{
+	background-image:url("https://media.istockphoto.com/vectors/abstract-red-and-grey-corporate-background-vector-id804256126?k=6&m=804256126&s=612x612&w=0&h=XWb5IJhRWMIszK0XJetlq63H20fVVDbS6bWpvJccHtI=");
+	background-size: 100%;
+}
